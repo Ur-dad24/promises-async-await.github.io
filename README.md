@@ -21,3 +21,9 @@ I present the fetched GitHub user data in a user-friendly format on a web page u
 
 By working on this small project, I aim to improve my proficiency in using promises and async/await in JavaScript. Additionally, 
 I enhance my skills in working with web APIs and manipulating data fetched from remote sources.
+
+
+#### Visit site:
+ [GitHub User Fetcher](https://ur-dad24.github.io/promises-async-await.github.io/).
+
+
