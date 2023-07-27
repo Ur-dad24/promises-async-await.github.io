@@ -1,5 +1,4 @@
 
-//https://api.github.com/users
 const getGitHubUser = async () => {
     let response = await fetch('https://api.github.com/users');
     console.log(response);
@@ -31,12 +30,7 @@ getGitHubUser();
 
 
 
-
-
-
-
-
-
+//JUST MY PLAYGROUND
 
 //NORMAL FUNCTIONS
 
